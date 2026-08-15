@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marlon-de-sá-1168173bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/marlondesa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -21,14 +21,14 @@
 - 🔭 Currently focused on building modern web applications with **React**, **TypeScript** and **Node.js**
 - 🌱 Continuously learning system design, clean architecture and best practices
 - 💬 Feel free to reach out if you want to collaborate or talk about tech
-- ⚡ Fun fact: I love turning complex problems into simple and elegant solutions
+- ⚡ I love turning complex problems into simple and elegant solutions
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,postgres,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,postgres,mongodb,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -36,27 +36,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marlondesa/marlondesa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marlondesa&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marlondesa/marlondesa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlondesa&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlondesa.marlondesa" alt="Profile Views" />
-</div>
-
----
-
-### 🎮 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlondesa&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
