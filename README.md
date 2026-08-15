@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marlon-de-sá-1168173bb/">
+  <a href="https://www.linkedin.com/in/marlon-de-s%C3%A1-1168173bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -28,7 +28,10 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,postgres,mongodb,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,postgres,mongodb,git,github,vscode&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -36,15 +39,26 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marlondesa&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img
+    height="170"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlondesa&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img
+    height="170"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlondesa&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marlondesa&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
