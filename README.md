@@ -48,10 +48,20 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<!-- Pacman Contribution Graph -->
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg"
+  >
+  <img 
+    alt="Pacman Contribution Graph" 
+    src="https://raw.githubusercontent.com/marlondesa/marlondesa/pacman-output/pacman-contribution-graph.svg"
+  >
 </picture>
 
 ###
